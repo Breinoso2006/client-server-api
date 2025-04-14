@@ -25,3 +25,6 @@ O client.go terá que salvar a cotação atual em um arquivo "cotacao.txt" no fo
 O endpoint necessário gerado pelo server.go para este desafio será: /cotacao e a porta a ser utilizada pelo servidor HTTP será a 8080.
 
 ![Desenho da Solução](assets/challenge.png)
+
+### Instruções
+No terminal, dê um `go run server.go` dentro da pasta server e, posteriormente, em outra aba do terminal, um `go run client.go` dentro da pasta client.
